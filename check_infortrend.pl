@@ -3,6 +3,8 @@
 # check_infortrend
 # Nagios plugin for Infortrend RAID arrays
 #
+# Blatantly stolen from the work of James Braid
+#
 
 use strict;
 use warnings;
